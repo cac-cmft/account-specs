@@ -1,0 +1,2 @@
+var tags = []
+var specs = [{"path":"specs/query_users_accounts.html","name":"查询用户的账户余额","scenarios":[{"name":"查询所有账户","tags":[]},{"name":"查询某一个账户","tags":[]},{"name":"查询出错","tags":[]}]},{"path":"specs/transfer_between_accounts_with_different_users_user.html","name":"在同一用户的账户之间转账","scenarios":[{"name":"在同一币种账户之间转账","tags":[]},{"name":"在不同币种账户之间转账","tags":[]}]},{"path":"specs/transfer_between_accounts_with_same_user.html","name":"在不同用户的账户之间转账","scenarios":[{"name":"在同一币种账户之间转账","tags":[]},{"name":"在不同币种账户之间转账","tags":[]}]}]
